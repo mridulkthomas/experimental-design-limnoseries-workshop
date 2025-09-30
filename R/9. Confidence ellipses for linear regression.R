@@ -1,5 +1,5 @@
 #### Workshop on How to Design Better Experiments — Script 09
-# Author: Ravi Ranjan
+# Author: Ravi Ranjan (ORCID: 0000-0001-8644-9316)
 # Repo: https://github.com/mridulkthomas/experimental-design-limnoseries-workshop
 # License: MIT (code); CC BY 4.0 (teaching materials)
 ####
@@ -159,4 +159,5 @@ legend("bottomleft",
 
 # The poor design's ellipse is really big here, so feel free to remove it to see 
 # how the other two compare
+
 # Also try out a replicated regression design. How do you expect it to do?
