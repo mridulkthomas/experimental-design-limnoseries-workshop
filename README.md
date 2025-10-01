@@ -1,6 +1,7 @@
 # Workshop: How to Design Better Experiments, for the GLEON Limnoseries
 
-**1. NO NEED TO DEAL WITH GITHUB, JUST CLICK THIS LINK TO DOWNLOAD ALL WORKSHOP R SCRIPTS**: https://downgit.github.io/#/home?url=https://github.com/mridulkthomas/experimental-design-limnoseries-workshop/tree/65aabd930e98b83582ac9e2cc90f3e87f9fb4330/R (or clone if you want to use Git).
+**NO NEED TO DEAL WITH GITHUB, JUST CLICK THIS LINK TO DOWNLOAD ALL WORKSHOP R SCRIPTS**: https://downgit.github.io/#/home?url=https://github.com/mridulkthomas/experimental-design-limnoseries-workshop/tree/65aabd930e98b83582ac9e2cc90f3e87f9fb4330/R (or clone if you want to use Git).
+
 
 **Authors:** Mridul K. Thomas (ORCID: 0000-0002-5089-5610) and Ravi Ranjan (ORCID: 0000-0001-8644-9316)
 
