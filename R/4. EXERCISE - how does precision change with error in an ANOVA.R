@@ -48,7 +48,7 @@ for (s in sigma_levels){
 
 ### 1. Spread of estimates for each sigma
 ggplot(results, aes(estimate, fill = factor(sigma))) +
-  geom_histogram(alpha = 0.4, bins = 50, position = "identity") +
+  geom_histogram(alpha = 0.4, bins = 40, position = "identity") +
   geom_vline(xintercept = delta, colour = "red") +
   labs(title = paste("Sampling distributions at n =", n_per_group, "per group"),
        subtitle = "Wider spread means lower precision",
@@ -67,3 +67,4 @@ ggplot(mean_se, aes(sigma, mean_se)) +
   labs(title = paste("Precision vs error SD at n =", n_per_group, "per group"),
        x = "Within-group SD (sigma)",
        y = "Mean standard error of estimate")
+
