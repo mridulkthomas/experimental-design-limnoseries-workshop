@@ -22,6 +22,7 @@ understand experimental outcomes and design better experiments.
 We lay out many of the ideas we cover in the workshop in this paper: 
 
 Thomas, MK & R Ranjan (2024). Designing More Informative Multiple-Driver Experiments. _Annual Review of Marine Science_, 16, 513-536.
+
 Open access link: https://www.annualreviews.org/content/journals/10.1146/annurev-marine-041823-095913
 
 ## License
