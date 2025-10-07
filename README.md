@@ -5,8 +5,7 @@
 
 ## Authors: 
 
-**Mridul K. Thomas** (ORCID: 0000-0002-5089-5610) 
-**Ravi Ranjan** (ORCID: 0000-0001-8644-9316)
+**Mridul K. Thomas** (ORCID: 0000-0002-5089-5610) and **Ravi Ranjan** (ORCID: 0000-0001-8644-9316)
 
 - 📦 Repo (latest): https://github.com/mridulkthomas/experimental-design-limnoseries-workshop
 - ▶️ Video: TO BE ADDED 
