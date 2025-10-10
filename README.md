@@ -8,7 +8,7 @@
 **Authors**: **Mridul K. Thomas** (ORCID: 0000-0002-5089-5610) and **Ravi Ranjan** (ORCID: 0000-0001-8644-9316)
 
 - 📦 Repo (latest): https://github.com/mridulkthomas/experimental-design-limnoseries-workshop
-- ▶️ Video: TO BE ADDED 
+- ▶️ Video: https://www.youtube.com/watch?v=AyHqjPh5thw  
 
 ## Instructions
 1. Scripts are numbered from 1 to 9. 
