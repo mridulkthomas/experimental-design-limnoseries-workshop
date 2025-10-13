@@ -27,7 +27,7 @@ Open access link: https://www.annualreviews.org/content/journals/10.1146/annurev
 
 ## License
 - Code: MIT (see `LICENSE`)
-- Teaching materials (if any): CC BY 4.0 (see `LICENSE-CC-BY-4.0.txt`)
+- Teaching materials: CC BY-NC-SA 4.0 (see `LICENSE-CC-BY-NC-SA-4.0.txt`)
 
 ## How to cite
 TO BE ADDED 
