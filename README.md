@@ -1,6 +1,10 @@
 # Workshop: How to Design Better Experiments (GLEON Limnoseries)
 
-**NO NEED TO DEAL WITH GITHUB, JUST CLICK THIS LINK TO DOWNLOAD ALL WORKSHOP R SCRIPTS**: https://downgit.github.io/#/home?url=https://github.com/mridulkthomas/experimental-design-limnoseries-workshop/tree/65aabd930e98b83582ac9e2cc90f3e87f9fb4330/R 
+**NO NEED TO DEAL WITH GITHUB, JUST CLICK THESE LINKS TO DOWNLOAD THE FILES**: 
+
+R Scripts: https://downgit.github.io/#/home?url=https://github.com/mridulkthomas/experimental-design-limnoseries-workshop/tree/65aabd930e98b83582ac9e2cc90f3e87f9fb4330/R 
+
+Presentation: https://raw.githubusercontent.com/mridulkthomas/experimental-design-limnoseries-workshop/main/Workshop%20presentation%20-%20How%20to%20design%20better%20experiments.pdf
 
 
 ## Overview
